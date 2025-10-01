@@ -1,6 +1,14 @@
 # Canva MCP: Your AI-Powered Design Assistant
 
-The Canva Model Context Protocol (MCP) bridges the gap between AI assistants and Canva's design platform, enabling seamless integration of design workflows into your AI conversations.
+The Canva Model Context Protocol (MCP) is a Gemini CLI extension that bridges the gap between AI assistants and Canva's design platform, enabling seamless integration of design workflows into your AI conversations.
+
+## Installation
+
+Install the extension with a single command:
+
+```bash
+gemini extension install https://github.com/whereispolaris/canva-gemini-extension
+```
 
 ## What It Does
 
