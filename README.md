@@ -7,7 +7,7 @@ The Canva Model Context Protocol (MCP) is a Gemini CLI extension that bridges th
 Install the extension with a single command:
 
 ```bash
-gemini extension install https://github.com/whereispolaris/canva-gemini-extension
+gemini extension install https://github.com/canva-sdks/canva-gemini-extension
 ```
 
 ## What It Does
