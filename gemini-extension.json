@@ -3,12 +3,10 @@
   "version": "1.0.0",
   "mcpServers": {
     "Canva": {
-      "command": "npx",
-      "args": [
-        "-y",
-        "mcp-remote@latest",
-        "https://mcp.canva.com/mcp"
-      ]
+      "httpUrl": "https://mcp.canva.com/mcp",
+      "oauth": {
+        "enabled": true
+      }
     }
   },
   "contextFileName": "gemini-extension/GEMINI.md"
